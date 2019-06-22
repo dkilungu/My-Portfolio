@@ -2,8 +2,9 @@ library(ggplot2)
 library(dplyr) # For data manipulation
 
 # change working directory with setwd("file/to/path") if working with local data file
-# download sample data file from this repository
+# you can download sample data file from this repository
 
+#read in the data with the read_csv function
 scores = read.csv("scores.csv") 
 
 #summarise the data with group_by and summarise functions from dplyr
@@ -19,3 +20,6 @@ p=ggplot(data = report,aes(x = TOPIC, y = as.numeric(Percentage), fill = MARK))+
   theme_tufte() + theme(plot.title = element_text(hjust = .5),axis.ticks = element_blank(), 
         axis.text.x = element_blank(),axis.title.x = element_blank()) +
          scale_fill_brewer(palette = "Dark2")
+
+#show the plot
+p
