@@ -1,7 +1,7 @@
 # Projects #
 
 
-I am a professional Business Analyst aspiring to move to Data Science.
+Below is a snapshot of some of the techniques I have used or projects I have tackled before.
 
 ## Data Visualization ##
 
