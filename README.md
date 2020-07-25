@@ -10,4 +10,4 @@ Below is a snapshot of some of the techniques I have used or projects I have tac
   * ### R Shiny 
 
 ## Predictive Modelling ##
-* [Checking Overfitting ](https://github.com/dkilungu/My-Portfolio/tree/master/pyramid%20plots "pyramid ggplot") : These
+* [Overfitting in Polynomial Regression ](https://github.com/dkilungu/My-Portfolio/tree/master/pyramid%20plots "pyramid ggplot") : These
