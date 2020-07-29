@@ -10,4 +10,4 @@ Below is a snapshot of some of the techniques I have used or projects I have tac
   * ### R Shiny 
 
 ## Predictive Modelling ##
-* [Overfitting in Polynomial Regression ](https://github.com/dkilungu/My-Portfolio/blob/master/Optimal%20Polynomial%20Degree.ipynb) : These
+* [Overfitting in Polynomial Regression ](https://github.com/dkilungu/My-Portfolio/blob/master/Optimal%20Polynomial%20Degree.ipynb) : This is a guide on selecting the optimal polynomial regression model degree, to avoid overfitting.
